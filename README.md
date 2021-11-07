@@ -1,2 +1,2 @@
 # stateful_widget_example
-stateful widget example simple flutter concepts which are building blocks for any app;ication.
+A simple flutter application illustrating concepts which are building blocks for any flutter application.
